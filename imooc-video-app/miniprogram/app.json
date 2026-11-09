@@ -3,14 +3,12 @@
     "pages/index/index",
     "pages/userLogin/login",
     "pages/videoinfo/videoinfo",
-    
     "pages/videotest/videotest",
-    
-    
     "pages/mine/mine",
     "pages/userRegist/regist",
     "pages/chooseBgm/chooseBgm",
-    "pages/searchVideo/searchVideo"
+    "pages/searchVideo/searchVideo",
+    "pages/report/report"
   ],
   "window": {
     "backgroundTextStyle": "light",
